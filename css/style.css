@@ -1,0 +1,18 @@
+body {
+    background-color: #53f1f1;
+}
+
+ul {
+    list-style-type: square;
+}
+
+img.ice-cream {
+    border-radius: 50%;
+}
+
+hr {
+    width: 15%;
+    border-style: dotted none none;
+    border-width: 0.5rem;
+    border-color: rgb(36, 146, 137);
+}
